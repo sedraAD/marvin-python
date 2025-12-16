@@ -26,14 +26,14 @@ Each menu option represents a small independent exercise implemented in Python.
 
 ---
 
-## 🛠 Technologies
+## Technologies
 
 - **Python**
 - Console / Terminal application
 
 ---
 
-## ▶️ How to run the project
+## How to run the project
 
 1. Make sure you have Python installed (Python 3 recommended).
 2. Clone the repository or download the files.
