@@ -1,6 +1,6 @@
 # Marvin – Python Menu Application
 
-This project is a simple Python console application developed as part of an introductory programming course.
+This project is a simple Python console application developed as part of a python course.
 
 The application, called **Marvin**, presents a menu-based interface where the user can choose between different small features and exercises. The project was created to practice fundamental programming concepts in Python such as functions, loops, conditionals, input/output and basic problem-solving.
 
